@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: iOS, Web Development
-description: I build this <a href=https://github.com/ninja98/SiriProxy-Dreambox-Enigma2-Plugin.git target=_blank>plugin</a> for Apple's digital assistant Sirithat let's you control a tv using the api of an <a href=https://en.wikipedia.org/wiki/Dreambox target=_blank>Dreambox</a>.It also integrates user a various websites to receive channel broadcasting information and information about sports and football matches. See it in action below or <a href=https://duckduckgo.com/?q=https%3A%2F%2Fduckduckgo.com%2F%3Fq%3Dninja98%2Bsiriproxy%26t%3Dosx%26ia%3Dsoftware&t=h_&ia=web taget=_blank>duckduckgo</a> it. <div><iframe width="560" height="315" src="https://www.youtube.com/embed/PE90J3mWOcc" frameborder="0" allowfullscreen></iframe></div>
+description: I build this <a href=https://github.com/ninja98/SiriProxy-Dreambox-Enigma2-Plugin.git target=_blank>plugin</a> for Apple's digital assistant Sirithat let's you control a tv using the api of an <a href=https://en.wikipedia.org/wiki/Dreambox target=_blank>Dreambox</a>.It also integrates user a various websites to receive channel broadcasting information and information about sports and football matches. See it in action below or <a href=https://duckduckgo.com/?q=ninja98+siriproxy&t=osx&ia=software taget=_blank>duckduckgo</a> it. <div><iframe width="560" height="315" src="https://www.youtube.com/embed/PE90J3mWOcc" frameborder="0" allowfullscreen></iframe></div>
 
 ---

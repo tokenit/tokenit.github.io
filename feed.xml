@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator>
+  <link href="https://token-it.github.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://token-it.github.io/" rel="alternate" type="text/html" />
+  <updated>2017-09-04T12:41:35+02:00</updated>
+  <id>https://token-it.github.io/</id>
+
+  
+    <title type="html">Johan Hendrikx</title>
+  
+
+  
+    <subtitle>Experienced Ruby developer availabl for freelancing projects</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Siri</title>
+      <link href="https://token-it.github.io/ios,%20web%20development/2014/07/18/siri/" rel="alternate" type="text/html" title="Siri" />
+      <published>2014-07-18T00:00:00+02:00</published>
+      <updated>2014-07-18T00:00:00+02:00</updated>
+      <id>https://token-it.github.io/ios,%20web%20development/2014/07/18/siri</id>
+      <content type="html" xml:base="https://token-it.github.io/ios,%20web%20development/2014/07/18/siri/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="iOS, Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Buybay</title>
+      <link href="https://token-it.github.io/web%20development/2014/07/15/buybay/" rel="alternate" type="text/html" title="Buybay" />
+      <published>2014-07-15T00:00:00+02:00</published>
+      <updated>2014-07-15T00:00:00+02:00</updated>
+      <id>https://token-it.github.io/web%20development/2014/07/15/buybay</id>
+      <content type="html" xml:base="https://token-it.github.io/web%20development/2014/07/15/buybay/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Mapscape</title>
+      <link href="https://token-it.github.io/web%20development/2014/07/14/mapscape/" rel="alternate" type="text/html" title="Mapscape" />
+      <published>2014-07-14T00:00:00+02:00</published>
+      <updated>2014-07-14T00:00:00+02:00</updated>
+      <id>https://token-it.github.io/web%20development/2014/07/14/mapscape</id>
+      <content type="html" xml:base="https://token-it.github.io/web%20development/2014/07/14/mapscape/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">UPS inc.</title>
+      <link href="https://token-it.github.io/logistic%20systems/2001/01/01/ups/" rel="alternate" type="text/html" title="UPS inc." />
+      <published>2001-01-01T00:00:00+01:00</published>
+      <updated>2001-01-01T00:00:00+01:00</updated>
+      <id>https://token-it.github.io/logistic%20systems/2001/01/01/ups</id>
+      <content type="html" xml:base="https://token-it.github.io/logistic%20systems/2001/01/01/ups/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Logistic systems" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

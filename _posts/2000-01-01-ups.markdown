@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2001-01-01
+img: ups.png
+alt: image-alt
+project-date: April 2014
+client: UPS inc.
+title: UPS inc.
+category: Logistic systems
+description: Worked for 8 years as field support engineer, analyst, developer and software architect on in-house developed logistics systems using the jvm. After it was time for a new step in my career I was presented with an award. <img src="img/awards/ups.png" class="img-responsive" alt="ups award">
+
+---

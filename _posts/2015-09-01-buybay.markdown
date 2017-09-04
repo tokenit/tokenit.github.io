@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: buybay.png
+alt: image-alt
+project-date: September 2015
+client: BuyBay BV
+category: Web Development
+description: Startup where I build and managed a new IT team of 8 developers and a product owner. With this team we designed and implemented a new software platform for automating online sales using all major europeon online marketplaces like Ebay, Amazon, Bol.com, Fnac etc. Keywords are ruby, rails, jquery, mariadb, scrum, jira. The platform is live and the company received a major investment. <a target='_blank' href='http://fortino.be/2017/02/27/buybay-acquires-investment-from-fortino-capital-for-international-business-growth/'>More details</a>
+---

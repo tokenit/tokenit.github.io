@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-14
+img: go-mapscape.png
+alt: image-alt
+project-date: April 2014
+client: Mapscape
+category: Web Development
+description: Build new dev team and worked for 7 years with C/C++, jruby, ruby, rails on software to automate digital map testing and production processes. I worked on integration projects with major automotive companies to integrate their quality systems and logistics their systems. The maps are used in targets that support the <a href=http://www.nds-association.org target=_blank>NDS digital navigation map standard</a>
+
+---
